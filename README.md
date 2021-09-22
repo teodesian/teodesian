@@ -80,6 +80,17 @@ Highlights:
 
 ## Testimonials
 
+### [Bryan S, Katz](https://holophrasticenterprises.com) - Owner & Software Architect of Holophrastic Enterprises
+
+I planned three months for a complete overhaul and migration of the entire business, expecting reality to drag it out.
+There were the peculiarities of my custom platform, the quirks of plesk, and the all-out fun of mixing the two with a completely new network architecture.
+I got far more, from George, than I understood was even possible.
+George worked through it all, filled in the blanks that I never knew I had, and simplified the parts that I'd over-complicated.  He kept us "up-schedule" at every stage;  we were done two-weeks early.
+George's experience with the nitty-gritty of plesk's internals, and his skills at lower-level linux, are the benefits that I can appreciate.
+His skills at the networking and virtualization levels are beyond my comprehension; I just get to watch it all work smoothly.
+George makes working with him very easy, which is why I continue to do so; I feel comfortable depending on his expertise for many aspects of my business.
+I now base my business on George's decisions, and will continue to depend on his dedication for many years to come.
+
 ### [Rikus Goodell](https://github.com/cpanelrikus) - Senior Developer at cPanel
 
 During his years at cPanel, George built up many of the tools that continue to power the QA department to this day, especially in automation of the Perl-based QA test suite and the VMs on which it runs. I would describe him as a pioneer of the group who helped make it possible for dozens of others to do their jobs efficiently. After he moved to a product developer role, I got the chance to work with him on a daily basis as part of a Scrum team, and I enjoyed having him as a teammate. One pattern he consistently shows is a relentless drive to solve problems, by whichever means fits the best in the situation. As a primary author of much of our test automation code, he is also no stranger to tackling large challenges single-handedly, and I find this independent mindset to be one of his most admirable qualities. Whether something needs to be fixed or something needs to be built from the ground up, George will make it happen.
