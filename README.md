@@ -1,6 +1,6 @@
 # I am a software engineer and tester available for Freelance and Consulting work through my firm Troglodyne, LLC
 
-I have 15 years of experience writing and testing web applications with aparticular focus on web hosting, performance and mathematics.
+I have 20 years of experience writing and testing web applications with aparticular focus on web hosting, performance and mathematics.
 
 * [Contact information](#contact-information)
 * [Experience](#experience)
@@ -12,7 +12,7 @@ I have 15 years of experience writing and testing web applications with aparticu
 
 * Email: [george@troglodyne.net](mailto:george@troglodyne.net)
 * Phone: 713-330-6123 (text preferred for first-contact)
-* Location: [Houston, Texas](https://www.google.com/maps/place/Houston,+TX/@29.8159954,-95.9617495,9z/data=!3m1!4b1!4m5!3m4!1s0x8640b8b4488d8501:0xca0d02def365053b!8m2!3d29.7604267!4d-95.3698028?hl=en)
+* Location: [Dallas, Texas](https://www.google.com/maps/place/Dallas,+TX/)
 * Timezone: CDT (UTC+6)
 * Language: English
 
@@ -24,13 +24,18 @@ Alternatively, check me out on [LinkedIn](https://www.linkedin.com/in/george-bau
 ### CEO, Troglodyne LLC
 _August 2020 - Present_
 
-I assist clients with all manner of software projects from my office in Houston.  Primarily perl, html/css/js work, but the occasional PHP work thrown in too.
-I also build open source software for automated testing (see my pinned repos below), and am working on my own testing SAAS offering to be out early 2022.
-Recent and ongoing clients include:
+I am a Full Stack developer specializing in Software Testing, Performance and Modernization of legacy Codebases.
+
+Primarily perl, html/css/js work, but the occasional PHP, C/C++ & Java work thrown in too.
+I also build open source software focused mostly on automated testing (see my pinned repos below).
+
+Past and ongoing clients include:
 
 - [Holophrastic Enterprises](https://holophrasticenterprises.com) - Assistance with server management, migration and perl application performance.
+- [Insight Cruises](https://insightcruises.com) - Modernization of 20+ year old perl codebase, new features & much more
+- [All Around the World](https://allaroundtheworld.fr) - Subcontracts with a number of firms, including [booking.com](https://booking.com)
 
-I also do a [youtube series](https://www.youtube.com/channel/UCFvN_fLAzWiFdAKjj9DjEyw/videos) on topics of interest to the software developer and tester.
+I also do a [youtube series](https://www.youtube.com/channel/UCFvN_fLAzWiFdAKjj9DjEyw/videos) and [blog](https://troglodyne.net/blog) on topics of interest to the software developer and tester.
 
 ### Senior Tester, Senior Developer @ cPanel
 _July 2011-November 2012 and June 2014-August 2020 (Just shy of 8 years)_
